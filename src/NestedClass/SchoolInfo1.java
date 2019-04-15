@@ -1,11 +1,11 @@
 package NestedClass;
 
-public class SchoolInfo {
+public class SchoolInfo1 {
 
     String schoolName;
     String schoolAddress;
 
-    public SchoolInfo(String schoolName, String schoolAddress){
+    public SchoolInfo1(String schoolName, String schoolAddress){
         this.schoolName = schoolName;
         this.schoolAddress = schoolAddress;
     }
