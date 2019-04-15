@@ -36,5 +36,6 @@ public class ArrayListExample {
         for (String i : movies_2014){
             System.out.println(i);
         }
+        System.out.println("I have "+movies_2014.size()+" from my list of best movies from 2014.");
     }
 }
