@@ -29,9 +29,5 @@ public class SchoolInfoTest {
         for(SchoolInfo.StudentInfo s:list){
             System.out.println(s.studentName+" "+s.studentGradeLevel);
         }
-
-
-
-
     }
 }
