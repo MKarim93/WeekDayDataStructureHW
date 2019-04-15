@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db0daf39-bde0-47ca-916c-bf1906f1167b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DataStructure/LinkedListExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataStructure/MovieDetails.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/WeekDayJavaHW/DataStructure/ArrayExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/WeekDayJavaHW/DataStructure/ArrayExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructure/ArrayListExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure/ArrayListExample.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,7 +38,7 @@
         <entry file="file://$PROJECT_DIR$/src/DataStructure/LinkedListExample.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="391">
-              <caret line="23" column="67" selection-start-line="23" selection-start-column="67" selection-end-line="23" selection-end-column="67" />
+              <caret line="23" column="61" selection-start-line="23" selection-start-column="61" selection-end-line="23" selection-end-column="61" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#204#218#0" expanded="true" />
@@ -121,7 +117,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555347203226" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555347422243" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RunDashboard">
@@ -202,12 +198,18 @@
       <option name="project" value="LOCAL" />
       <updated>1555132571336</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added LinkedList class">
+      <created>1555347283200</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1555347283200</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1456" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23352435" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -240,7 +242,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added arraylist class" />
-    <option name="LAST_COMMIT_MESSAGE" value="added arraylist class" />
+    <MESSAGE value="added LinkedList class" />
+    <option name="LAST_COMMIT_MESSAGE" value="added LinkedList class" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/DataStructure/ArrayExample.java">
@@ -270,7 +273,7 @@
     <entry file="file://$PROJECT_DIR$/src/DataStructure/LinkedListExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
-          <caret line="23" column="67" selection-start-line="23" selection-start-column="67" selection-end-line="23" selection-end-column="67" />
+          <caret line="23" column="61" selection-start-line="23" selection-start-column="61" selection-end-line="23" selection-end-column="61" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#204#218#0" expanded="true" />
