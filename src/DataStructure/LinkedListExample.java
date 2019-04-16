@@ -17,13 +17,14 @@ public class LinkedListExample {
         MovieDetails movie7 = new MovieDetails("Logan", "James Mangold", 2017);
 
         list.add(movie1);
+        list.add(movie2);
+        list.add(movie3);
         list.add(movie4);
+        list.add(movie5);
         list.add(movie6);
 
         for(MovieDetails m:list){
             System.out.println(m.title+", by "+m.director+", released "+m.releaseYear);
         }
-
-
     }
 }
